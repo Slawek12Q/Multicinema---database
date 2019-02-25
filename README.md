@@ -1,1 +1,1 @@
-Multi-cinema project made in sql server
+Multi-cinema project made in sql server.
